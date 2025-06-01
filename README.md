@@ -1,4 +1,4 @@
-# # 👋 Welcome to My Data Engineering Portfolio
+## 👋 Welcome to My Data Engineering Portfolio
 
 Hello! I'm Công, a passionate student in computer science and data engineering, currently studying at Université Claude Bernard Lyon 1.  
 This portfolio gathers a selection of my academic and personal projects across **data**, **AI**, and **software engineering**.
@@ -15,7 +15,15 @@ This portfolio gathers a selection of my academic and personal projects across *
 - Focus: ETL, data transformation, dashboarding
 
 ---
+### 🟥 [📊 Analyse de Donnée – Exploratory Data Analysis](https://github.com/phamchiencong2002/Analyse-de-donn-e)
 
+> Jupyter notebooks for data cleaning, visualization, and basic analytics.
+
+- 📎 CSV data exploration, correlation heatmaps, groupby summaries
+- 📊 Tools: Pandas, Seaborn, Matplotlib
+- 💡 Use cases: education, social data, basic reporting
+
+---
 ### ♟ [LIFPOO – Chess Game in Java](https://github.com/phamchiencong2002/LIFPOO)
 
 > A turn-based chess game implemented in Java using object-oriented principles.
